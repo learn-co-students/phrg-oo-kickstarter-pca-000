@@ -33,5 +33,8 @@ A few hints to get you started:
 * When a `Project` instance is initialized, it should be initialized with a `@backers` variable set to an empty array. Instances of the `Project` class should have an `attr_accessor` for backers so that projects can add backers to their list of backers and report on the backers who support them. 
 * When a backer has added a project to its list of backed projects, that project should *also add the backer to its list of backers*. Refer back to the Code Along about Collaborating Objects.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-oo-kickstarter/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-oo-kickstarter/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Object Oriented Kickstarter</p>
